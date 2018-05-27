@@ -22,11 +22,11 @@
 }
 
 .show {
-    background-color: #70A29B;
+    background-color: #1B32DB;
     border-radius: 56%;
     border: none;
     color: white;
-    padding: 15px 32px;
+    padding: 14px 15px;
     font-size: 16px;
     position: relative;
     transition: .5s ease;
@@ -50,23 +50,23 @@
     pointer-events: none;
 }
 
-    .modalDialog:target {
-        opacity: 1;
-        pointer-events: auto;
-    }
+.modalDialog:target {
+    opacity: 1;
+    pointer-events: auto;
+}
 
-    .modalDialog > div {
-        width: 41em;
-        height: 18em;
-        position: relative;
-        margin: 10% auto;
-        padding: 5px 20px 13px 20px;
-        border-radius: 10px;
-        background: #fff;
-        background: -moz-linear-gradient(#fff, #999);
-        background: -webkit-linear-gradient(#fff, #999);
-        background: -o-linear-gradient(#fff, #999);
-    }
+.modalDialog > div {
+    width: 41em;
+    height: 18em;
+    position: relative;
+    margin: 10% auto;
+    padding: 5px 20px 13px 20px;
+    border-radius: 10px;
+    background: #fff;
+    background: -moz-linear-gradient(#fff, #999);
+    background: -webkit-linear-gradient(#fff, #999);
+    background: -o-linear-gradient(#fff, #999);
+}
 
 .close {
     background: #606061;
@@ -87,6 +87,6 @@
     box-shadow: 1px 1px 3px #000;
 }
 
-    .close:hover {
-        background: #00d9ff;
-    }
+.close:hover {
+    background: #00d9ff;
+}

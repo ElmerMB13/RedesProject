@@ -71,6 +71,8 @@
     <Content Include="Images\autentificacion.png" />
     <Content Include="Images\parkinglot.png" />
     <Content Include="Images\parking_home.png" />
+    <Content Include="Images\parkinspot.png" />
+    <Content Include="Images\sensor2.png" />
     <Content Include="Pages\home\home.css" />
     <Content Include="Pages\home\home.html" />
     <Content Include="Pages\inside\inside.css" />
