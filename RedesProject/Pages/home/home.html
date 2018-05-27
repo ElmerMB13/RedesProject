@@ -3,7 +3,6 @@
 <head>
     <meta charset="utf-8" />
     <link rel="stylesheet" type="text/css" href="home.css">
-    <title></title>
 </head>
 <body id="home">
     <div class="container">
@@ -11,7 +10,14 @@
             <h1>Welcome to Smart Parking</h1>
         </div>
         <div>
-            <button onclick="window.location.href='https://www.google.com'" class="enter">Enter to parking</button>
+            <button onclick="window.location.href='#openModal'" class="enter">Enter</button>
+        </div>
+        <div id="openModal" class="modalDialog">
+            <div>
+                <a href="#close" title="Close" class="close">X</a>
+                <img class="authentification" src="../../images/autentificacion.png" />
+                <button onclick="window.location.href = '../inside/inside.html';" class="show submit-button">Show</button>
+            </div>
         </div>
     </div>
 </body>

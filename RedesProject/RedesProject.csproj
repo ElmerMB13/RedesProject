@@ -68,10 +68,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Images\autentificacion.png" />
+    <Content Include="Images\parkinglot.png" />
     <Content Include="Images\parking_home.png" />
     <Content Include="Pages\home\home.css" />
     <Content Include="Pages\home\home.html" />
-    <Content Include="Pages\home\home_controller.js" />
+    <Content Include="Pages\inside\inside.css" />
+    <Content Include="Pages\inside\inside.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
