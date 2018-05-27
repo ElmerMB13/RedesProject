@@ -1,7 +1,7 @@
 ﻿#home {
     background-image: url("../../Images/parking_home.png");
     background-repeat: no-repeat;
-    background-size: 100% 100%;
+    background-size: 100% 469%;
 }
 
 .welcome {
@@ -9,15 +9,14 @@
 }
 
 .enter {
-    background-color: #4CAF50; /* Green */
+    background-color: #4CAD9F;
+    border-radius: 30px;
     border: none;
     color: white;
     padding: 15px 32px;
     font-size: 16px;
     position: relative;
     transition: .5s ease;
-    top: 191px;
-    left: 420px;
-    right: -420px;
-    bottom: -191px;
+    top: 31em;
+    left: 27em;
 }
