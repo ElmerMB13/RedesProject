@@ -68,6 +68,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Images\afterPark.png" />
     <Content Include="Images\autentificacion.png" />
     <Content Include="Images\displayScreen.png" />
     <Content Include="Images\parkinglot.png" />
@@ -76,6 +77,7 @@
     <Content Include="Images\pressureSensor.png" />
     <Content Include="Images\sensor2.png" />
     <Content Include="Images\sensorQR.png" />
+    <Content Include="Images\smartlight.png" />
     <Content Include="Pages\home\home.css" />
     <Content Include="Pages\home\home.html" />
     <Content Include="Pages\inside\inside.css" />

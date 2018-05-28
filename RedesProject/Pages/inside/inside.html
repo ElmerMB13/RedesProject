@@ -8,9 +8,10 @@
 <body id="inside">
     <div class="container">
         <div>
-            <button onclick="window.location.href='#openModal'" class="park">Park</button>
+            <button onclick="window.location.href='#beforeParkModal'" class="beforePark">Before Park</button>
+            <button onclick="window.location.href='#afterParkModal'" class="afterPark">After Park</button>
         </div>
-        <div id="openModal" class="modalDialog">
+        <div id="beforeParkModal" class="modalDialog">
             <div>
                 <a href="#close" title="Close" class="close">X</a>
                 <img class="parkHere" src="../../Images/parkinspot.png" />
@@ -18,8 +19,16 @@
                 <img class="displayScreen" src="../../Images/displayScreen.png" />
                 <img class="pressureSensor" src="../../Images/pressureSensor.png" />
                 <img class="QRSensor" src="../../Images/sensorQR.png" />
+                <img class="smartLight" src="../../Images/smartlight.png" />
             </div>
         </div>
+
+        <div id="afterParkModal" class="modalDialog">
+            <div>
+                <a href="#close" title="Close" class="close">X</a>
+                <img class="afterParkImage" src="../../Images/afterPark.png" />
+            </div>
+
     </div>
 </body>
 </html>

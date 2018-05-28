@@ -4,7 +4,7 @@
     background-size: 100% 41em;
 }
 
-.park {
+.beforePark {
     background-color: #1A43A7;
     border-radius: 30px;
     border: none;
@@ -14,8 +14,21 @@
     position: relative;
     transition: .5s ease;
     top: 25em;
-    left: 25em;
+    left: 24em;
 }
+
+.afterPark {
+    background-color: #1A43A7;
+    border-radius: 30px;
+    border: none;
+    color: #f8f1f1;
+    padding: 10px 12px;
+    font-size: 16px;
+    position: relative;
+    transition: .5s ease;
+    top: 25em;
+    left: 24em;
+} 
 
 .parkingSensor {
     top: -11em;
@@ -45,6 +58,22 @@
     position: relative;
     height: 2em;
     width: 6em;
+}
+
+.smartLight {
+    left: -20em;
+    top: -25em;
+    position: relative;
+    width: 5em;
+}
+
+.afterParkImage {
+    left: -1em;
+    top: 0em;
+    position: relative;
+    width: 40em;
+    border-radius: 1em;
+    height: 25em;
 }
 
 .modalDialog {
