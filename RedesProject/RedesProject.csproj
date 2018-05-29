@@ -70,6 +70,7 @@
   <ItemGroup>
     <Content Include="Images\afterPark.png" />
     <Content Include="Images\autentificacion.png" />
+    <Content Include="Images\barricade.PNG" />
     <Content Include="Images\displayScreen.png" />
     <Content Include="Images\parkinglot.png" />
     <Content Include="Images\parking_home.png" />
