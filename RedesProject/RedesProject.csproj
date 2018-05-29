@@ -77,6 +77,7 @@
     <Content Include="Images\parkinspot.png" />
     <Content Include="Images\pressureSensor.png" />
     <Content Include="Images\sensor2.png" />
+    <Content Include="Images\sensor3D.png" />
     <Content Include="Images\sensorQR.png" />
     <Content Include="Images\smartlight.png" />
     <Content Include="Pages\home\home.css" />
