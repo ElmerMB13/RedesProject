@@ -4,7 +4,7 @@
     background-size: 100% 41em;
 }
 
-.beforePark {
+.beforeParking {
     background-color: #1A43A7;
     border-radius: 30px;
     border: none;
@@ -17,7 +17,7 @@
     left: 24em;
 }
 
-.afterPark {
+.afterParking {
     background-color: #1A43A7;
     border-radius: 30px;
     border: none;
@@ -26,8 +26,8 @@
     font-size: 16px;
     position: relative;
     transition: .5s ease;
-    top: 25em;
-    left: 24em;
+    top: 31em;
+    left: 27em;
 } 
 
 .parkingSensor {
